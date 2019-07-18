@@ -1,0 +1,25 @@
+.baslik {
+  color: white;
+  background-color: grey;
+  text-align: center;
+  padding: 20px;
+}
+
+option {
+  font-size: 10pt;
+}
+
+.bg {
+  background-color: white;
+  text-align: center;
+  font-size: 15pt;
+  color: grey;
+}
+
+li {
+  list-style-type: none;
+}
+
+#göster2 {
+  padding: 35px;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hava_durumu",
+  "version": "1.0.0",
+  "description": "hava durumu uygulaması",
+  "main": "hd2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bilge",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
